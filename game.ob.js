@@ -76,7 +76,7 @@ if (localStorage.getItem(usdfe.HH + 'Silent Aim')) {
     usdfe.state['Silent Aim'].active = parseInt(localStorage.getItem(usdfe.HH + 'Silent Aim')) % usdfe.state[ 'Silent Aim'].a.length;
 }
 
-usdfe.menuActive = false;
+usdfe.menuActive = true;
 usdfe.bhopActive = false;
 usdfe.oldbhopActive = false;
 usdfe.sendBuffer = [];
