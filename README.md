@@ -19,3 +19,6 @@ Enable overrides and override the js file that is loaded with the js file found 
 For github clout.
 
 And I feel like quitting the game ```soon tm``` but also want to see what Krunker will do to prevent cheating. Making this public just speeds up the anti cheat updates and also makes it more targetted towards this gamer chair.
+
+# Buy me robux
+https://patreon.com/hrt
