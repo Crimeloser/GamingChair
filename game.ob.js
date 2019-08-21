@@ -25,7 +25,7 @@ usdfe.state = {
                 'NASA Peak': {active: 1, a:['ALT', 'OFF'], str:'[Y]'},
                 'Anti Report': {active: 1, a:['ON', 'OFF'], str:'[M]'},
                 'Auto Respawn': {active: 1, a:['ON', 'OFF'], str:'[N]'},
-                '360': {active: 1, a:['ON', 'OFF'], str:'[O]'}
+                '360': {active: 1, a:['DISABLED', 'DISABLED'], str:'[O]'}
             };
 usdfe.getVal = function(k) {
     return usdfe.stringToInt[usdfe.state[k].a[usdfe.state[k].active]]
