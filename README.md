@@ -13,3 +13,7 @@ Toggle menu on/off with insert/home/delete
 
 ## Chrome (unsupported)
 Enable overrides and override the js file that is loaded with the js file found in this repo.
+
+
+# bUt WhY pUbLiC
+I feel like quitting the game ```soon tm``` but also want to see what Krunker will do to prevent cheating. Making this public just speeds up the anti cheat updates and also makes it more targetted towards this gamer chair.
