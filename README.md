@@ -4,12 +4,13 @@
 https://discord.gg/zKJXCua
 
 Known issue: 360 mode causes reduced damage
+
 Toggle menu on/off with insert/home/delete
 
 # Install
 
 ## Client
-0. Install the desktop krunker client from the browser
+0. Install the desktop krunker client from the browser. Windows users can download the client [here](https://client.krunker.io/setup.exe)
 1. Download the latest release [here](https://github.com/hrt/GamingChair/releases/download/1.0/app.asar).
 2. Install by replacing the file ```app.asar``` located in ```%temp%\..\Programs\krunker-client\resources``` or ```C:\Users\USER\AppData\Local\Programs\krunker-client\resources\```
 
