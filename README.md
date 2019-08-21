@@ -1,5 +1,5 @@
 # Gaming Chair
-1.5.6: http://krunker.io
+1.5.7: http://krunker.io
 
 https://discord.gg/zKJXCua
 
