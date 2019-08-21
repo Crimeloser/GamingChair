@@ -1,6 +1,8 @@
 # Gaming Chair
 1.5.6: http://krunker.io
 
+https://discord.gg/zKJXCua
+
 Toggle menu on/off with insert/home/delete
 
 # Install
